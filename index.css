@@ -9,3 +9,6 @@
 .home-img img{
 	max-height:60vh;
 }
+.portfolio-item img{
+height: 25vh;
+}
