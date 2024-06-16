@@ -17,3 +17,6 @@ height: 25vh;
     width: 70px;
     
 }
+html{
+	scroll-behavior: smooth;
+}
